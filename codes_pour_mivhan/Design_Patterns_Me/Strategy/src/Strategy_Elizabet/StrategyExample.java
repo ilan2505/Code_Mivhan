@@ -1,7 +1,12 @@
 package DesignPatterns.Strategy;
 //from  http://en.wikipedia.org/wiki/Strategy_pattern
 class StrategyExample {
- 
+//Called ConcreteStrategyAdd's execute()
+//resultA = 7
+//Called ConcreteStrategySubtract's execute()
+//resultB = -1
+//Called ConcreteStrategyMultiply's execute()
+//resultC = 12
     public static void main(String[] args) {
  
         Context context;
