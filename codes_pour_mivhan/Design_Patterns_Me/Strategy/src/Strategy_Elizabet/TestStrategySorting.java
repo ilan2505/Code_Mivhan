@@ -47,5 +47,14 @@ public class TestStrategySorting {
 		contextPointB.sort(pointsB);
 		System.out.println(Arrays.toString(pointsB));
 	}
-
 }
+//QuickSort
+//[0.2, 1.0, 1.2, 2.4, 3.2, 7.9, 10.2, 12.0, 14.0, 16.0, 17.0, 19.6, 22.5]
+//[a, e, i, j, o, p, q, s, t, x]
+//[Strategy_Elizabet.Point@5fd0d5ae, Strategy_Elizabet.Point@2d98a335, Strategy_Elizabet.Point@16b98e56, Strategy_Elizabet.Point@7ef20235, Strategy_Elizabet.Point@27d6c5e0, Strategy_Elizabet.Point@4f3f5b24]
+//BubbleSort
+//[0.2, 1.0, 1.2, 2.4, 3.2, 7.9, 10.2, 12.0, 14.0, 16.0, 17.0, 19.6, 22.5]
+//[a, e, i, j, o, p, q, s, t, x]
+//[Strategy_Elizabet.Point@7b23ec81, Strategy_Elizabet.Point@6acbcfc0, Strategy_Elizabet.Point@5f184fc6, Strategy_Elizabet.Point@3feba861, Strategy_Elizabet.Point@5b480cf9, Strategy_Elizabet.Point@6f496d9f]
+
+//Process finished with exit code 0
