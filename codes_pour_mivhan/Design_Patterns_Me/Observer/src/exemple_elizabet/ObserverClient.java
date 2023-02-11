@@ -64,3 +64,14 @@ public class ObserverClient {
 		s.notifyObservers();
 	}
 }
+//Resultat :
+//Observer Tzili's new state is: Homework 1 is ready!
+//Observer Gili's new state is: Homework 1 is ready!
+//Observer Nili's new state is: Homework 1 is ready!
+
+//Observer Tzili's new state is: Homework 2 is ready!
+//Observer Gili's new state is: Homework 2 is ready!
+//Observer Nili's new state is: Homework 2 is ready!
+
+//Observer Tzili's new state is: Homework 3 is ready!
+//Observer Nili's new state is: Homework 3 is ready!
