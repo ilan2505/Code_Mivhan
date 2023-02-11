@@ -52,6 +52,6 @@ public class TestMovable {
         Movable bugattiVeyron = new BugattiVeyron(268);
         MovableAdapter bugattiVeyronAdapter = new MovableAdapterImpl(bugattiVeyron);
         double speed = bugattiVeyronAdapter.getSpeed();
-        System.out.println("The speed of the Veyron is : "+ speed);
+        System.out.println("The speed of the Veyron is : "+ speed);    //The speed of the Veyron is : 431.30312
     }
 }
